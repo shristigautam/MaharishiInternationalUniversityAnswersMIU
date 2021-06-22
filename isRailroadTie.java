@@ -30,6 +30,8 @@ package MIU;
  *
  * @author Shristi
  */
+
+//THIS ANSWER MIGHT NOT BE CORRECT. I WAS TOO TIRED.
 public class isRailroadTie {
     public static void main(String[] args) {
         int [] a= {1, 2, 0, 3, -18, 0, 2, 2};
