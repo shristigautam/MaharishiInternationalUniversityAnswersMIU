@@ -1,0 +1,2 @@
+# MaharishiInternationalUniversityAnswersMIU
+Questions and solved answers to Maharishi International University programming test
