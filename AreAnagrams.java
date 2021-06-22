@@ -24,7 +24,7 @@ public class AreAnagrams {
         for(int i =0; i<a.length; i++){
             for(int j =0; j<b.length; j++){
                 if(a[i]==b[j]){
-                    b[j]=0; //setting match vaisakeko item to null in case of double occurrence
+                    b[j]=0; //setting matched items to null in case of double occurrence
                     count ++;
                     break;
                 }
